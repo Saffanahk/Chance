@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  UberSwiftUITutorial
+
+  Created by Ruba Abuhatlah on 19/06/1444 AH.
+  
+*/
+
+
+"Current location" = "الموقع الحالي";
+"1:30 PM" = "١:٣٠ م";
+"Apple Academy" = "أكاديمية أبل";
+"1:45 PM" = "١:٤٥ م";
+"SUGGESTED RIDES" = "المركبات المقترحة";
+"Visa" = "فيزا";
+"*** 123" = "*** ١٢٣";
+"CONFIRM" = "تأكيد";
+"Where to?" = "الى أين؟";
+"No input.." = "لا يوجد مدخلات";
+
+"Car" = "سيارة";
+"Van" = "عائلية";
+"Luxury" = "كبيرة";
+"$30.00" = "٣٠.٠٠ريال";

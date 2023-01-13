@@ -1,0 +1,25 @@
+
+/*
+  Localizable.strings
+  UberSwiftUITutorial
+
+  Created by Ruba Abuhatlah on 19/06/1444 AH.
+  
+*/
+
+
+
+"Current location" = "Current location";
+"1:30 PM" = "1:30 PM";
+"Apple Academy" = "Apple Academy";
+"1:45 PM" = "1:45 PM";
+"SUGGESTED RIDES" = "SUGGESTED RIDES";
+"Visa" = "Visa";
+"*** 123" = "*** 123";
+"CONFIRM" = "CONFIRM";
+"Where to?" = "Where to?";
+"No input.." = "No input..";
+"Car" = "Car";
+"Van" = "Van";
+"Luxury" = "Luxury";
+"$30.00" = "$30.00";
